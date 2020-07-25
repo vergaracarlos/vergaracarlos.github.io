@@ -27,6 +27,7 @@ nav ul {
 nav li {
     padding: 20px;
     padding-left: 50px;
+    font-weight: bold;
 }
 
 footer {
@@ -65,6 +66,19 @@ footer {
     margin-bottom: 25px;
 }
 
-h6 {
+.jumbotron h6 {
     margin-left: 50px;
+}
+
+.jumbotron h2 {
+    margin-left: -50px;
+}
+
+#about-text {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+small {
+    font-size: 10px;
 }

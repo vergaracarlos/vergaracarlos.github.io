@@ -22,6 +22,7 @@ nav {
 
 nav ul {
     /* border: 1px solid black; */
+    margin-right: 20px;
 }
 
 nav li {
@@ -67,11 +68,11 @@ footer {
 }
 
 .jumbotron h6 {
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 .jumbotron h2 {
-    margin-left: -50px;
+    margin-left: -100px;
 }
 
 #about-text {
